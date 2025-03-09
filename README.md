@@ -59,15 +59,15 @@ Contribuições são bem-vindas! Se você deseja contribuir com o projeto:
 
 ## Como Executar o Projeto
 
-1. **Clone o repositório**:
+1. **Clone o repositório**: 
    ```bash
-   git clone 
+   git clone https://github.com/JulianaHaddad/CalculadoraJava.git
 
 2. **Importe o projeto para uma IDE**:
    Use uma IDE como Eclipse ou IntelliJ para abrir o projeto.
 
 3. **Compile e execute**:
-   Execute a classe Calculadora localizada no pacote br.com.joaomos.calc.visao.
+   Execute a classe Calculadora localizada no pacote br.com.juliana.calculadora.visao.
 
 4. **Interaja com a interface gráfica**:
    A calculadora será exibida e estará pronta para uso.
