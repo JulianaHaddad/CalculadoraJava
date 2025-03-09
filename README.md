@@ -1,5 +1,10 @@
 # Calculadora utilizando Java com Swing
 
+
+![Captura de tela 2025-03-09 174041](https://github.com/user-attachments/assets/f419caba-a9db-4bb3-820e-9c3db92aee5a)
+
+
+
 Este projeto é uma calculadora desenvolvida em Java utilizando a biblioteca Swing para a interface gráfica. A calculadora suporta operações matemáticas básicas, como soma, subtração, multiplicação e divisão, além de funcionalidades como inversão de sinal e uso de números decimais.
 
 ## Funcionalidades
